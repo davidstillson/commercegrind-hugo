@@ -33,7 +33,7 @@ sections:
   path: config.toml
   label: Configuration
 upload_dir: commerce-grind
-public_path: https://res.cloudinary.com/david-stillson-media
+public_path: https://res.cloudinary.com/david-stillson-media/image/upload
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
