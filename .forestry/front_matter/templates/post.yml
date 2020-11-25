@@ -24,3 +24,5 @@ fields:
   name: type
   label: type
   default: post
+pages:
+- content/how-to-set-up-magento-2-docker-in-windows-using-wsl2.md
