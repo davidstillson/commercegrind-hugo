@@ -9,3 +9,11 @@ type = "post"
 
 +++
 This is how you get Docker running locally on your windows machine using WSL2!!
+
+![](https://res.cloudinary.com/david-stillson-media/image/upload/v1606276001/commerce-grind/1598850390192_1307_logo-01_Cropped_jibwyh.jpg)
+
+# This is a Heading
+
+### This is a sub-heading
+
+This is regular plain old text..
