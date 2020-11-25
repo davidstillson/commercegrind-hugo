@@ -35,7 +35,7 @@ logo = "https://res.cloudinary.com/david-stillson-media/image/upload/c_scale,e_b
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
-title = "Hi, I'm John Smith Doe. <br> I help people make the  worlds best software"
+title = "Hi, I'm David Stillson. <br> I help people build cool things related to ecommerce"
 [params.cta]
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
 enable = true
